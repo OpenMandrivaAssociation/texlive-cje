@@ -1,6 +1,6 @@
 Name:		texlive-cje
 Version:	46721
-Release:	1
+Release:	2
 Summary:	LaTeX document class for CJE articles
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/cje
